@@ -34,6 +34,7 @@
 
 ## Learn More
 [Wikipedia page](https://en.wikipedia.org/wiki/Inside_Out_(2015_film))
-
+https://www.figma.com/proto/S4cfg7zeAaeqraCaBsFm8S/Untitled?node-id=5-252&t=QtodRTha4kQU8tYD-1
 ---
 *Written by Arkayla Macalam*
+
